@@ -947,4 +947,10 @@ var hacktobermap = [
     latitude: 45.501690,
     longitude: -73.567253
   },
+  {
+    name: "Vadim Slepich",
+    location: "Minsk, Belarus",
+    latitude: 53.904541,
+    longitude:27.561523
+  },
 ];
